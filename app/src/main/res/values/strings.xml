@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">English For Construction</string>
+    <string name="next">Continue</string>
+    <string name="skip">Continue</string>
+    <string name="start">Get Started</string>
+
+    <string name="welcome_1_title">Welcome to Javatpoint!</string>
+    <string name="welcome_1_desc">Javatpoint is passionate to offer better technical content to the world.</string>
+
+    <string name="welcome_2_title">Android</string>
+    <string name="welcome_2_desc">Android is a mobile operating system developed by Google.</string>
+
+
+</resources>
